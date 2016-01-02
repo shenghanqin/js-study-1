@@ -1,0 +1,13 @@
+# system
+.DS_Store
+
+
+# node.js
+npm-debug.log
+node_modules/
+
+
+# 上传
+**/gulpfile.js
+
+.idea/
